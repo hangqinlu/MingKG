@@ -16,14 +16,13 @@ Fuses multi-source historical information to enable accurate reconstruction of i
 Supports high-dimensional, quantitative analysis of social stratification and the distribution of educational resources within the candidate group.
 
 - Spatial Mobility Analysis
- <img src="png/社会关系可视化.png" alt="SPLR Banner" width="800"/>
+ <img src="png/空间.png" alt="SPLR Banner" width="800"/>
 </p>
 Focuses on the migration patterns and regional flows of examination candidates, providing spatiotemporal insights into historical geographic dynamics.
 
-- Social Relationship Visualization
- <img src="png/空间.png" alt="SPLR Banner" width="800"/>
+- Social Relationship Visualization.Reveals the internal structure and power diffusion pathways of elite examination families, enabling visual exploration of complex social networks.
+ <img src="png/社会关系可视化.png" alt="SPLR Banner" width="800"/>
 </p>
-Reveals the internal structure and power diffusion pathways of elite examination families, enabling visual exploration of complex social networks.
 
 - Intelligent Examination Q&A Platform
  <img src="png/智能问答.png" alt="SPLR Banner" width="800"/>
