@@ -9,18 +9,22 @@ This project aims to advance the structured management and multidimensional anal
 Fuses multi-source historical information to enable accurate reconstruction of individual lives and family genealogies.
  <img src="png/人物全息.png" alt="SPLR Banner" width="800"/>
 </p>
+
 - Group Structure Induction
  <img src="png/群体结构.png" alt="SPLR Banner" width="800"/>
 </p>
 Supports high-dimensional, quantitative analysis of social stratification and the distribution of educational resources within the candidate group.
+
 - Spatial Mobility Analysis
  <img src="png/社会关系可视化.png" alt="SPLR Banner" width="800"/>
 </p>
 Focuses on the migration patterns and regional flows of examination candidates, providing spatiotemporal insights into historical geographic dynamics.
+
 - Social Relationship Visualization
  <img src="png/空间.png" alt="SPLR Banner" width="800"/>
 </p>
 Reveals the internal structure and power diffusion pathways of elite examination families, enabling visual exploration of complex social networks.
+
 - Intelligent Examination Q&A Platform
  <img src="png/智能问答.png" alt="SPLR Banner" width="800"/>
 </p>
