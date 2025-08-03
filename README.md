@@ -5,29 +5,29 @@ This project aims to advance the structured management and multidimensional anal
 
 ## Functional Modules
  The database currently integrates and exposes five core functional modules:
-- Comprehensive Biographical Profiling
-Fuses multi-source historical information to enable accurate reconstruction of individual lives and family genealogies.
+- Comprehensive Biographical Profiling：Fuses multi-source historical information to enable accurate reconstruction of individual lives and family genealogies.
+
  <img src="png/人物全息.png" alt="SPLR Banner" width="800"/>
 </p>
 
-- Group Structure Induction
+- Group Structure Induction：Supports high-dimensional, quantitative analysis of social stratification and the distribution of educational resources within the candidate group.
  <img src="png/群体结构.png" alt="SPLR Banner" width="800"/>
 </p>
-Supports high-dimensional, quantitative analysis of social stratification and the distribution of educational resources within the candidate group.
 
-- Spatial Mobility Analysis
+
+- Spatial Mobility Analysis:Focuses on the migration patterns and regional flows of examination candidates, providing spatiotemporal insights into historical geographic dynamics.
  <img src="png/空间.png" alt="SPLR Banner" width="800"/>
 </p>
-Focuses on the migration patterns and regional flows of examination candidates, providing spatiotemporal insights into historical geographic dynamics.
 
-- Social Relationship Visualization.Reveals the internal structure and power diffusion pathways of elite examination families, enabling visual exploration of complex social networks.
+
+- Social Relationship Visualization:Reveals the internal structure and power diffusion pathways of elite examination families, enabling visual exploration of complex social networks.
  <img src="png/社会关系可视化.png" alt="SPLR Banner" width="800"/>
 </p>
 
-- Intelligent Examination Q&A Platform
+- Intelligent Examination Q&A Platform:Powered by Retrieval-Augmented Generation (RAG), the platform enables natural language queries and automatic summarization, enhancing accessibility and analytical depth for historical knowledge services.
  <img src="png/智能问答.png" alt="SPLR Banner" width="800"/>
 </p>
-Powered by Retrieval-Augmented Generation (RAG), the platform enables natural language queries and automatic summarization, enhancing accessibility and analytical depth for historical knowledge services.
+
 
 ---
 ## Data Description
