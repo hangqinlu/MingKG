@@ -7,6 +7,8 @@ This project aims to advance the structured management and multidimensional anal
  The database currently integrates and exposes five core functional modules:
 - Comprehensive Biographical Profiling
 Fuses multi-source historical information to enable accurate reconstruction of individual lives and family genealogies.
+ <img src="png/人物全息.png" alt="SPLR Banner" width="800"/>
+</p>
 - Group Structure Induction
 Supports high-dimensional, quantitative analysis of social stratification and the distribution of educational resources within the candidate group.
 - Spatial Mobility Analysis
