@@ -31,7 +31,7 @@ Key points:
 ### 2) Information Disambiguation
 An end-to-end scheduler executes a unified **PG → RDF** pipeline (20+ scripts), streaming logs and intermediate artifacts for auditability. Outputs `.nt` files editable in Protégé.
 
-![Information Disambiguation](png/信息消歧.svg)
+![Information Disambiguation](Database/png/信息消歧.svg)
 
 Highlights:
 - Layout-guided provenance alignment (substring-first, fuzzy-fallback)
@@ -43,7 +43,7 @@ Highlights:
 ### 3) Knowledge Discovery
 Integrated dashboards for **group-structure induction**, **spatio-temporal metrics**, **network exploration**, and **GIS** views. Coordinated multiple views link distributions, spatial patterns, relations, and temporal dynamics.
 
-![Knowledge Discovery](png/功能模块.jpg)
+![Knowledge Discovery](Database/png/功能模块.jpg)
 
 Includes:
 - Cohort-indexed bar/line charts with opportunity-year normalization
@@ -56,7 +56,7 @@ Includes:
 
 To validate empirical utility, E2K reproduces literature-confirmed **kinship pairs** among Ming-period Guizhou *jinshi* and discovers them **automatically** via the social-relations module:
 
-![Jinshi Kinship Network](png/示例案例1——进士家族网络.svg)
+![Jinshi Kinship Network](Database/png/示例案例1——进士家族网络.svg)
 
 - Identified **8/9** literature-confirmed pairs, **no false positives**, **1 miss** due to systematic textual gaps  
 - **Precision (P)=100%**, **Recall (R)=88.89%**, **F1=94.12%**
