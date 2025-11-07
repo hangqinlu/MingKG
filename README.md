@@ -71,11 +71,7 @@ To validate empirical utility, E2K reproduces literature-confirmed **kinship pai
 
 ---
 
----
-## Data Description
-- Format: JSONL knowledge graph data
-- Scope: Examination candidates from Guizhou, Ming Dynasty, Zhengtong to Chongzhen reigns (1436–1644)
-- Coverage: 95 individuals, with data on biography, family, examinations, official positions, and geography
+
 
 ## Directory Structure
 ```text
