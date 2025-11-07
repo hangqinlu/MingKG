@@ -1,0 +1,21 @@
+# config.yaml
+device: "cuda"
+
+model:
+  pretrained_dir: "SIKU-BERT/sikubert"
+  checkpoint_path: "D:/Check_point/check_point.pt"
+  ner_type_file: "data/SPLRtext"
+
+data:
+  input_txt: "data/input_text/group1.txt"
+  output_json: "Experimental Results/osplr_pred/osplr_group1.json"
+
+llm:
+  api_base_url: "https://tbnx.plus7.plus/v1"
+  api_key: "sk-e8DdamFXsM6jBn1MA5NTyUAvMDdsQLJnKLKfgItEz75GUj1Q"         #
+  model_name: "deepseek-reasoner"
+  timeout: 1500
+
+other:
+  sleep_per_sample: 1
+  max_retry: 3
