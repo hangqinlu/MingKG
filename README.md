@@ -19,7 +19,7 @@
 ### 1) Information Organization
 Automatically converts classical texts into a **Property Graph** guided by the domain ontology and extraction results (SPLR/OSPLR). Web UI supports batch upload and interactive editing; provenance is preserved end-to-end.
 
-![Information Organization](png/信息组织.svg)
+![Information Organization](Database/png/信息组织.svg)
 
 Key points:
 - Batch ingestion of DOCX/JSON; interactive review/edit
