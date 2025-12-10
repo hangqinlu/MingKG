@@ -1,4 +1,4 @@
-# E2K: An End-to-End Framework for Automatic Knowledge-Base Construction from Imperial Examination Texts
+# E2K: End-to-End Construction of an Imperial Examination Knowledge Base with OSPLR
 
 
 ---
