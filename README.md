@@ -16,7 +16,7 @@
 
 
 ## Functional Modules
-### 1) Information Organization
+### 1) Information Organization——OSPLR
 Automatically converts classical texts into a **Property Graph** guided by the domain ontology and extraction results (SPLR/OSPLR). Web UI supports batch upload and interactive editing; provenance is preserved end-to-end.
 
 <p align="center">
